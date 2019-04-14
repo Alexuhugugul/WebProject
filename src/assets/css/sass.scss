@@ -1,0 +1,24 @@
+/* SASS */
+@import "bootstrap.css";
+
+.first_screen {
+  background: url("../img/logo.jpg") no-repeat center center;
+  background-size: cover;
+
+  height: 100vh;
+}
+
+section {
+  border: 1px solid black;
+}
+
+div {
+  box-sizing: content-box;
+}
+
+.text{
+  height: 6vh;
+  font-size: 4vh;
+  color: white;
+}
+
